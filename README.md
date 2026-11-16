@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Equation Solver
+
+**Embryo Equation Solver** is Embryo-Zero's fork of [FEniCS DOLFINx](https://github.com/FEniCS/dolfinx), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # DOLFINx
 
 [![DOLFINx CI](https://github.com/FEniCS/dolfinx/actions/workflows/ccpp.yml/badge.svg)](https://github.com/FEniCS/dolfinx/actions/workflows/ccpp.yml)
